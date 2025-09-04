@@ -39,3 +39,17 @@ Implementation Guidelines: Practical instructions for:
 * Strategic planning applications
 
 Professional Recommendations: Actionable business strategies for immediate implementation and long-term growth
+
+Contact
+
+For feedback, bugs, or support, please contact me:
+
+Mayank Raj
+
+ironheart.mayank@gmail.com
+
+mayankraj_mc22a14_39@dtu.ac.in
+
+Mathematics and Computing
+
+Delhi Technological University
